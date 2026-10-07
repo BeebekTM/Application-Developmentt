@@ -1,0 +1,14 @@
+/home/beebektm/RiderProjects/Workshop2/task1/bin/Debug/net10.0/task1
+/home/beebektm/RiderProjects/Workshop2/task1/bin/Debug/net10.0/task1.deps.json
+/home/beebektm/RiderProjects/Workshop2/task1/bin/Debug/net10.0/task1.runtimeconfig.json
+/home/beebektm/RiderProjects/Workshop2/task1/bin/Debug/net10.0/task1.dll
+/home/beebektm/RiderProjects/Workshop2/task1/bin/Debug/net10.0/task1.pdb
+/home/beebektm/RiderProjects/Workshop2/task1/obj/Debug/net10.0/task1.GeneratedMSBuildEditorConfig.editorconfig
+/home/beebektm/RiderProjects/Workshop2/task1/obj/Debug/net10.0/task1.AssemblyInfoInputs.cache
+/home/beebektm/RiderProjects/Workshop2/task1/obj/Debug/net10.0/task1.AssemblyInfo.cs
+/home/beebektm/RiderProjects/Workshop2/task1/obj/Debug/net10.0/task1.csproj.CoreCompileInputs.cache
+/home/beebektm/RiderProjects/Workshop2/task1/obj/Debug/net10.0/task1.dll
+/home/beebektm/RiderProjects/Workshop2/task1/obj/Debug/net10.0/refint/task1.dll
+/home/beebektm/RiderProjects/Workshop2/task1/obj/Debug/net10.0/task1.pdb
+/home/beebektm/RiderProjects/Workshop2/task1/obj/Debug/net10.0/task1.genruntimeconfig.cache
+/home/beebektm/RiderProjects/Workshop2/task1/obj/Debug/net10.0/ref/task1.dll
